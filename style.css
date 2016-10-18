@@ -1,0 +1,19 @@
+.button {
+    position: fixed;
+    top: 10px;
+    height: 50px;
+    width: 200px;
+    border-radius: 8px;
+    background: transparent;
+    color: black;
+    font-weight: bold;
+    font-size: 10pt;
+}
+
+#addCircleSuccessively {
+    left: 50px;
+}
+
+#addCircleRandomly {
+    left: 300px;
+}
